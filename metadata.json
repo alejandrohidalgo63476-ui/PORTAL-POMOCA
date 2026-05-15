@@ -1,0 +1,6 @@
+{
+  "name": "Portal Pomoca",
+  "description": "Panel centralizado de accesos directos a módulos operativos y administrativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
