@@ -114,7 +114,7 @@ const MODULES_DATA: MainModule[] = [
         name: 'PRUEBAS LABORATORIO',
         icon: TableProperties,
         color: '#2563EB', // Blue
-        link: 'https://analizador-de-concreto-production-0a16.up.railway.app/'
+        link: 'https://analizador-de-pruebas-de-concreto-siicsa-production.up.railway.app/'
       },
       {
         id: 'actas-pro-cloud',
